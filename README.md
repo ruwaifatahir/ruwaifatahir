@@ -15,11 +15,18 @@
 
 <p align="left">
 
-  Acheivements: 
+  **Acheivements**: 
   
-  - In the early days of career, I worked on some projects like tokens, Nft minting sites, staking platform and crypto dashboard on fiver. And I mantained the five start rating during this timespan. Unfortunately account is not active now.
-  - During 2021, I worked together with Atompad to launch a multichain launchpad. During this time, I developed several smart contracts that held hundreds of thousands of dollars, including one that held $1.8 million earlier this year.
-  - In the first half of 2022, I joined Mtvswap to create Decentralized Exchange(DEX) with farms, pools and launchpad that I successfuly did with the talented team. As a result, I gained a lot of knowledge about Defi and Defi programming here. 
+  <br>
+  - In the early days of career, I worked on some projects like tokens, Nft minting sites, staking platform and crypto dashboard on fiver. And I mantained the **five start** rating during this timespan. Unfortunately account is not active now.
+  
+  <br>
+  
+  - During 2021, I worked together with [Atompad](https://www.atompad.io/) to launch a multichain launchpad. During this time, I developed several smart contracts that held hundreds of thousands of dollars, including one that held $1.8 million earlier this year.
+  
+  <br>
+  
+  - In the first half of 2022, I joined [Mtvswap](https://www.mtvswap.finance/pools) to create Decentralized Exchange(DEX) with farms, pools and launchpad that I successfuly did with the talented team. As a result, I gained a lot of knowledge about Defi and Defi programming. 
 </p>
 
 
