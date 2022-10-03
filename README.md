@@ -50,4 +50,4 @@
 - [Chakra UI](https://chakra-ui.com/)
 - [Ethers](https://docs.ethers.io/v5/)
 - [Moralis](https://moralis.io/)
-- 
+
