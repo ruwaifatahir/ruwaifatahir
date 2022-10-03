@@ -23,7 +23,7 @@
   
   <br>
   
-  - During 2021, I worked together with [Atompad](https://www.atompad.io/) to launch a multichain launchpad. During this time, I developed several smart contracts that held hundreds of thousands of dollars, including one that held $1.8 million earlier this year.
+  - During 2021, I worked together with [Atompad](https://www.atompad.io/) to launch a multichain launchpad. While I was there, I developed several smart contracts, which held hundreds of thousands of dollars, including one that held $1.8 million earlier this year.
   
   <br>
   
