@@ -18,7 +18,8 @@
   **Acheivements**: 
   
   <br>
-  - In the early days of career, I worked on some projects like tokens, Nft minting sites, staking platform and crypto dashboard on fiver. And I mantained the **five start** rating during this timespan. Unfortunately account is not active now.
+ 
+  - In the early days of career, I worked on some projects like tokens, Nft minting sites, staking platform and crypto dashboard on fiver. And I mantained the five start rating during this timespan. Unfortunately account is not active now.
   
   <br>
   
