@@ -48,6 +48,7 @@
 - [Typescript](https://www.typescriptlang.org/docs/)
 - [Nextjs](https://nextjs.org/)
 - [Chakra UI](https://chakra-ui.com/)
+- [Strapi](https://strapi.io/)
 - [Ethers](https://docs.ethers.io/v5/)
 - [Alchemy](https://www.alchemy.com/)
 
